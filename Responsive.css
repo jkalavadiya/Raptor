@@ -1,0 +1,294 @@
+@media screen and (min-width:1600px){
+    .img-wrapper {
+        margin-top: 20px;
+    }
+    .domain-para{
+        padding-top:200px;
+    }
+    .Container{
+        width:100%;
+    }
+}
+
+@media screen and (max-width:1598px) { 
+   
+    .img-wrapper{
+        margin-top:20px;
+    }
+
+    
+}
+@media screen and (max-width:1465px){
+    .img-wrapper{
+        margin-top:150px;
+    }
+}
+@media screen and (max-width:1198px){
+    .img-wrapper{
+        margin-top:250px;
+    }
+}
+
+@media screen and (max-width:990px) {
+    
+    .nav-list {
+        position: absolute;
+        top: 65px;
+        display: block;
+        left: 0px;
+        text-align: left;
+        width: 100%;
+        line-height: 10px;
+        height:470px;
+        background-color: #343a40;
+        overflow: hidden;
+        transition: 0.10s;
+    }
+
+    .circle::after,
+    .circle::before,
+    .circle2::before,
+    .circle2::after {
+        display: none;
+    }
+    .main-conatiner{
+        height: 740px;
+    }
+    .nav-item {
+        margin-left: 20px;
+        margin-top:8px;
+    }
+
+    .btn {
+        margin-left: 40px;
+        width:80%;
+        text-align: left;
+    }
+
+    .icon2 {
+        color: #ddd;
+        /* font-size:30px; */
+        padding-left: 12px;
+        /* margin-right:50px; */
+    }
+
+    .nav .icon1 {
+        display: flex;
+        color: #ddd;
+
+    }
+    .design {
+        margin-top: 65px;
+    }
+
+    .navbar-wrapper {
+        position: relative;
+        top: 0;
+    }
+
+    .nav-container {
+        width: 100%;
+        background-color: #343a40;
+        position:fixed;
+        top: 0;
+        z-index: 1;
+        
+    
+    }
+   
+
+   
+
+   
+    
+}
+
+
+
+@media  screen and (max-width:929px) {
+
+    .input-info{
+      display: flex;
+      padding:22px;
+      max-width:439px;
+    }
+    .submit{
+        width:60%;
+    }
+    input[type=text]{
+        width: 100%;
+        max-width: 50%;
+    }
+    .img-wrapper{
+        margin-top:340px;
+    }
+}
+
+@media screen and (max-width:817px){
+    .img-wrapper{
+        margin-top:380px;
+    }
+}
+@media  screen and (max-width:783px) {
+    .footer-wrapper{
+        display: block;
+      
+    }
+    .footer-text{
+        width:80%;
+
+    }
+    
+}
+@media screen and (max-width:600px) {
+    .footer-text1{
+        width:80%;
+    }
+    .f-heading{
+        text-align: center;
+    }
+    
+}
+@media  screen  and (max-width:767px) {
+     
+    .container-text {
+        display: block;
+        text-align: center;
+    }
+     .para-text {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .design {
+        margin-left: 0;
+    }
+
+    .button-start {
+        margin-left: 0;
+
+    }
+    .img-wrapper{
+        margin-top:-15px;
+    }
+    .domain-para {
+        padding-top:290px;
+    }
+    /* .image {
+        margin-top:-150px;
+        width: 100%;
+        
+    } */
+
+    /* .domain-para {
+        margin-top:250px
+    } */
+    /* .host-img{
+        max-width:40%;
+    } */
+
+    .input-info{
+        display: block;
+        width: 100%;
+
+    }
+    input[type=text]{
+        width:100%;
+        max-width:100%;
+    }
+    .submit{
+        width: 100%;
+        padding-bottom: 25px;
+        line-height:2;
+    }
+    
+    .service-section{
+        display: block;
+    
+    } 
+    .service-block{
+        margin-bottom:50px;
+    }
+   
+    .Pricing{
+     padding-top:70px;
+        display: block;
+        /* max-width:70%; */
+        margin: 0 auto;
+    }
+    .block{
+        max-width:70%;
+    }
+    .price-btn{
+        width:100%;
+    }
+    .fun-row{
+        display: block;
+    }
+    .row-wrapper{
+        padding: 12px;
+    }
+    .fun-section{
+        height: auto;
+
+    }
+    .host-img{
+        max-width:80%;
+        padding-left: 0;
+
+    }
+    .worksection{
+        display: block;
+        text-align: center;
+    }
+   .work-content{
+       width: 100%;
+     margin-left: 0px;
+    text-align: justify;
+    padding-left:50px;
+   }
+   .btn-wrapper{
+       flex-direction: column;
+       
+   }
+   .work-btn{
+       margin: 0 auto;
+       width: 80%;
+       margin-bottom: 5px;
+   }
+   
+
+}
+@media screen and (max-width:592px) {
+    .heading{
+        margin-left:0px;
+    }
+    .block{
+    
+        max-width: 100%;
+    }
+    
+}
+
+@media screen and (max-width:320px){
+    .fun-heading{
+        font-size: 35px;
+
+    }
+    .subscribe-para{
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.8;
+    }
+    .service-heading1 {
+        width: 100%;
+        font-size: 18px;
+        line-height: 1.8;
+
+    }
+    .c-block{
+
+    }
+    
+}
+
